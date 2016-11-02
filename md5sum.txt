@@ -1,0 +1,7 @@
+345673fe0b4e0994c6dfe4a50dd4ea28  const_error_upload.php
+30685c5587fd09cc0f5760b4463a1eeb  Cpf.php
+1b38c4f4e41188483efefdefc326a6d6  debug.php
+7c956fdb457cd5fcda1a6eaad9ea395d  moeda.php
+83f93317fb5dc6530b5b12b3516bce52  pdo.php
+eb25f196782d29e40389562d83a9d383  Pis.php
+5785dec7335abc6190d74e90079edc16  StrrSplit.php
